@@ -1,0 +1,60 @@
+*{
+  font-size: 20px;
+  padding: 0;
+  border-width: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root{
+  --cor-principal: #E635B5;
+  --cor-principal-escura: #991473;
+  --cor-principal-clara: #FF54CF;
+  --cor-secundaria: #1B9905;
+  --cor-secundaria-clara: #4FE635;
+  --cor-texto-claro: #EEEEEE;
+  --cor-texto-escuro: #282831;
+  --cor-fundo-escuro: #282831;
+}
+body{
+  background-color: var(--cor-principal-clara);
+  color: var(--cor-texto-claro);
+}
+h1, h2{
+  text-align: center;
+}
+main{
+  background-color: var(--cor-principal);
+  border-radius: 8px;
+  padding: 32px;
+}
+table{
+  width: 100%;
+}
+
+/*
+main > button{
+  color: var(--cor-texto-claro);
+  background-color: var(--cor-fundo-escuro);
+  font-weight: bolder;
+  padding: .5em;
+  border-radius: 8px;
+  float: left;
+}
+*/
+main > button{
+  float: left;
+}
+.btn-padrao{
+  color: var(--cor-texto-claro);
+  background-color: var(--cor-fundo-escuro);
+  font-weight: bolder;
+  padding: .5em;
+  border-radius: 8px;
+}
+.modal-content{
+  background-color: var(--cor-principal-clara);
+}
+.modal-header{
+  background-color: var(--cor-principal-escura);
+}
+/*Mudar cor do close*/
