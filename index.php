@@ -1,15 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt">
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Chamada PPI</title>
+  
   <!-- bootstrap -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
     integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+  
   <!-- css -->
   <link href="css/style.css" rel="stylesheet" type="text/css" />
+  
   <!-- js -->
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
@@ -44,18 +47,18 @@
           <td>X</td>
           <td>X</td>
           <td>X</td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>X</td>
+          <td>X</td>
+          <td>X</td>
         </tr>
         <tr>
           <td>Misla Wislaine Alves da Silva</td>
           <td>X</td>
           <td>X</td>
           <td>X</td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>X</td>
+          <td>X</td>
+          <td>X</td>
         </tr>
       </tbody>
     </table>
